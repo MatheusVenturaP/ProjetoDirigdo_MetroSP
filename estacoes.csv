@@ -1,0 +1,173 @@
+OBJECTID;NumeroZona;NomeZona;NumeroMuni;NomeMunici;NumDistrit;NomeDistri;Area_ha_2;ORIG_FID;COORD_X;COORD_Y
+0;0;Jabaquara;36;Jabaquara;0;Jabaquara;1;0;-46.63954;-23.647066
+1;1;Conceição;36;Conceição;1;Conceição;1;1;-46.641141;-23.636214
+2;2;São Judas;36;São Judas;2;São Judas;1;2;-46.637952;-23.624455
+3;3;Saúde;36;Saúde;3;Saúde;1;3;-46.634334;-23.617243
+4;4;Praça Da árvore;36;Praça Da árvore;4;Praça Da árvore;1;4;-46.637852;-23.61069
+5;5;Santa Cruz;36;Santa Cruz;5;Santa Cruz;1;5;-46.636659;-23.599225
+6;6;Vila Mariana;36;Vila Mariana;6;Vila Mariana;1;6;-46.635744;-23.587056
+7;7;Ana Rosa;36;Ana Rosa;7;Ana Rosa;1;7;-46.638388;-23.581376
+8;8;Paraíso;36;Paraíso;8;Paraíso;1;8;-46.64141;-23.575922
+9;9;Vergueiro;36;Vergueiro;9;Vergueiro;1;9;-46.639858;-23.568994
+10;10;São Joaquim;36;São Joaquim;10;São Joaquim;1;10;-46.640866;-23.561872
+11;11;Liberdade;36;Liberdade;11;Liberdade;1;11;-46.635956;-23.555535
+12;12;Sé;36;Sé;12;Sé;1;12;-46.633471;-23.549291
+13;13;São Bento;36;São Bento;13;São Bento;1;13;-46.634124;-23.54438
+14;14;Luz;36;Luz;14;Luz;1;14;-46.636009;-23.538548
+15;15;Tiradentes;36;Tiradentes;15;Tiradentes;1;15;-46.631959;-23.530857
+16;16;Armênia;36;Armênia;16;Armênia;1;16;-46.62611;-23.52543
+17;17;Portuguesa - Tietê;36;Portuguesa - Tietê;17;Portuguesa - Tietê;1;17;-46.625123;-23.516587
+18;18;Carandiru;36;Carandiru;18;Carandiru;1;18;-46.62491;-23.509654
+19;19;Santana;36;Santana;19;Santana;1;19;-46.626941;-23.502588
+20;20;Jardim São Paulo - Ayrton Senna;36;Jardim São Paulo - Ayrton Senna;20;Jardim São Paulo - Ayrton Senna;1;20;-46.616687;-23.492233
+21;21;Parada Inglesa;36;Parada Inglesa;21;Parada Inglesa;1;21;-46.608056;-23.487778
+22;22;Tucuruvi;36;Tucuruvi;22;Tucuruvi;1;22;-46.603211;-23.480048
+23;23;Vila Prudente;36;Vila Prudente;23;Vila Prudente;1;23;-46.581287;-23.57979
+24;24;Tamanduateí;36;Tamanduateí;24;Tamanduateí;1;24;-46.589293;-23.592985
+25;25;Sacomã;36;Sacomã;25;Sacomã;1;25;-46.602221;-23.601294
+26;26;Alto Do Ipiranga;36;Alto Do Ipiranga;26;Alto Do Ipiranga;1;26;-46.612638;-23.602126
+27;27;Santos - Imigrantes;36;Santos - Imigrantes;27;Santos - Imigrantes;1;27;-46.620723;-23.595716
+28;28;Chácara Klabin;36;Chácara Klabin;28;Chácara Klabin;1;28;-46.630193;-23.592527
+29;29;Brigadeiro;36;Brigadeiro;29;Brigadeiro;1;29;-46.648152;-23.568277
+30;30;Trianon - Masp;36;Trianon - Masp;30;Trianon - Masp;1;30;-46.655163;-23.562506
+31;31;Consolação;36;Consolação;31;Consolação;1;31;-46.662443;-23.556094
+32;32;Clínicas;36;Clínicas;32;Clínicas;1;32;-46.670723;-23.55419
+33;33;S. N. Sra. De Fátima - Sumaré;36;S. N. Sra. De Fátima - Sumaré;33;S. N. Sra. De Fátima - Sumaré;1;33;-46.67826;-23.550634
+34;34;Vila Madalena;36;Vila Madalena;34;Vila Madalena;1;34;-46.701929;-23.545279
+35;35;Corinthians - Itaquera;36;Corinthians - Itaquera;35;Corinthians - Itaquera;1;35;-46.470514;-23.541854
+36;36;Artur Alvim;36;Artur Alvim;36;Artur Alvim;1;36;-46.484316;-23.540491
+37;37;Patriarca;36;Patriarca;37;Patriarca;1;37;-46.501715;-23.531079
+38;38;Guilhermina - Esperança;36;Guilhermina - Esperança;38;Guilhermina - Esperança;1;38;-46.516771;-23.529692
+39;39;Vila Matilde;36;Vila Matilde;39;Vila Matilde;1;39;-46.530539;-23.531903
+40;40;Penha;36;Penha;40;Penha;1;40;-46.54395;-23.533648
+41;41;Carrão;36;Carrão;41;Carrão;1;41;-46.563637;-23.537601
+42;42;Tatuapé;36;Tatuapé;42;Tatuapé;1;42;-46.576371;-23.540188
+43;43;Belém;36;Belém;43;Belém;1;43;-46.602917;-23.548019
+44;44;Bresser - Mooca;36;Bresser - Mooca;44;Bresser - Mooca;1;44;-46.607323;-23.546596
+45;45;Brás;36;Brás;45;Brás;1;45;-46.616052;-23.544917
+46;46;Pedro II;36;Pedro II;46;Pedro II;1;46;-46.625474;-23.549809
+47;47;Anhangabaú;36;Anhangabaú;47;Anhangabaú;1;47;-46.639324;-23.547916
+48;48;República;36;República;48;República;1;48;-46.643889;-23.543056
+49;49;Santa Cecília;36;Santa Cecília;49;Santa Cecília;1;49;-46.657258;-23.538197
+50;50;Marechal Deodoro;36;Marechal Deodoro;50;Marechal Deodoro;1;50;-46.654522;-23.535048
+51;51;Palmeiras - Barra Funda;36;Palmeiras - Barra Funda;51;Palmeiras - Barra Funda;1;51;-46.659671;-23.527114
+70;70;Vila Sônia;36;Vila Sônia;70;Vila Sônia;1;70;-46.735739;-23.591924
+53;53;Faria Lima;36;Faria Lima;53;Faria Lima;1;53;-46.692793;-23.567605
+54;54;Pinheiros;36;Pinheiros;54;Pinheiros;1;54;-46.701087;-23.565934
+55;55;Butantã;36;Butantã;55;Butantã;1;55;-46.706944;-23.565
+56;56;Capão Redondo;36;Capão Redondo;56;Capão Redondo;1;56;-46.768691;-23.659955
+57;57;Campo Limpo;36;Campo Limpo;57;Campo Limpo;1;57;-46.758831;-23.64897
+58;58;Vila Das Belezas;36;Vila Das Belezas;58;Vila Das Belezas;1;58;-46.746074;-23.640247
+59;59;Giovanni Gronchi;36;Giovanni Gronchi;59;Giovanni Gronchi;1;59;-46.734486;-23.643901
+60;60;Santo Amaro;36;Santo Amaro;60;Santo Amaro;1;60;-46.721692;-23.655794
+61;61;Largo Treze;36;Largo Treze;61;Largo Treze;1;61;-46.710536;-23.65453
+62;62;Alto da Boa Vista;36;Alto da Boa Vista;62;Alto da Boa Vista;1;62;-46.699;-23.641
+63;63;Borba Gato;36;Borba Gato;63;Borba Gato;1;63;-46.6928;-23.63332
+64;64;Brooklin;36;Brooklin;64;Brooklin;1;64;-46.6878;-23.6263
+65;65;Campo Belo;36;Campo Belo;65;Campo Belo;1;65;-46.68221;-23.618399
+66;66;Eucaliptos;36;Eucaliptos;66;Eucaliptos;1;66;-46.66839;-23.609702
+67;67;Moema;36;Moema;67;Moema;1;67;-46.661872;-23.603427
+68;68;AACD-Servidor;36;AACD-Servidor;68;AACD-Servidor;1;68;-46.65227;-23.59731
+69;69;Hospital São Paulo;36;Hospital São Paulo;69;Hospital São Paulo;1;69;-46.64559;-23.59825
+71;71;São Paulo - Morumbi;36;São Paulo - Morumbi;71;São Paulo - Morumbi;1;71;-46.723393;-23.586115
+75;75;Mendes - Vila Natal;36;Mendes - Vila Natal;75;Mendes - Vila Natal;1;75;-46.709467;-23.754706
+72;72;Fradique Coutinho;36;Fradique Coutinho;72;Fradique Coutinho;1;72;-46.684284;-23.566199
+73;73;Oscar Freire;36;Oscar Freire;73;Oscar Freire;1;73;-46.671933;-23.560844
+74;74;Mackenzie;36;Mackenzie;74;Mackenzie;1;74;-46.652332;-23.54899
+76;76;Grajaú;36;Grajaú;76;Grajaú;1;76;-46.697019;-23.736493
+77;77;Primavera - Interlagos;36;Primavera - Interlagos;77;Primavera - Interlagos;1;77;-46.691828;-23.722655
+78;78;Autódromo;36;Autódromo;78;Autódromo;1;78;-46.688404;-23.706265
+79;79;Jurubatuba;36;Jurubatuba;79;Jurubatuba;1;79;-46.702163;-23.67731
+80;80;Socorro;36;Socorro;80;Socorro;1;80;-46.71075;-23.663703
+81;81;João Dias;36;João Dias;81;João Dias;1;81;-46.72308;-23.64042
+82;82;Granja Julieta;36;Granja Julieta;82;Granja Julieta;1;82;-46.711967;-23.627293
+83;83;Morumbi;36;Morumbi;83;Morumbi;1;83;-46.701238;-23.621946
+84;84;Berrini;36;Berrini;84;Berrini;1;84;-46.696475;-23.604841
+85;85;Vila Olímpia;36;Vila Olímpia;85;Vila Olímpia;1;85;-46.692012;-23.593594
+86;86;Cidade Jardim;36;Cidade Jardim;86;Cidade Jardim;1;86;-46.691024;-23.584902
+87;87;Hebraica - Rebouças;36;Hebraica - Rebouças;87;Hebraica - Rebouças;1;87;-46.698191;-23.57326
+88;88;Cidade Universitaria;36;Cidade Universitaria;88;Cidade Universitaria;1;88;-46.711538;-23.55725
+89;89;Vila-Lobos;36;Vila-Lobos;89;Vila-Lobos;1;89;-46.732695;-23.545998
+90;90;Ceasa;36;Ceasa;90;Ceasa;1;90;-46.742634;-23.537438
+91;91;Pres. Altino;36;Pres. Altino;91;Pres. Altino;1;91;-46.761688;-23.531339
+92;92;Osasco;36;Osasco;92;Osasco;1;92;-46.776159;-23.527794
+93;93;Julio Prestes;36;Julio Prestes;93;Julio Prestes;1;93;-46.639789;-23.534141
+94;94;Lapa;36;Lapa;94;Lapa;1;94;-46.698864;-23.520069
+95;95;Domingos de Moraes;36;Domingos de Moraes;95;Domingos de Moraes;1;95;-46.721653;-23.519203
+96;96;Imperatriz Leopoldina;36;Imperatriz Leopoldina;96;Imperatriz Leopoldina;1;96;-46.737693;-23.523795
+97;97;Com. Sampaio;36;Com. Sampaio;97;Com. Sampaio;1;97;-46.795707;-23.525525
+98;98;Quitaúna;36;Quitaúna;98;Quitaúna;1;98;-46.807423;-23.522968
+99;99;Gen. Miguel Costa;36;Gen. Miguel Costa;99;Gen. Miguel Costa;1;99;-46.815362;-23.523676
+100;100;Carapicuiba;36;Carapicuiba;100;Carapicuiba;1;100;-46.835618;-23.5186
+101;101;Santa Terezinha;36;Santa Terezinha;101;Santa Terezinha;1;101;-46.848021;-23.516514
+102;102;Antonio João;36;Antonio João;102;Antonio João;1;102;-46.858344;-23.517067
+103;103;Barueri;36;Barueri;103;Barueri;1;103;-46.875723;-23.512655
+104;104;Jardim Belval;36;Jardim Belval;104;Jardim Belval;1;104;-46.889529;-23.514388
+105;105;Jardim Silveira;36;Jardim Silveira;105;Jardim Silveira;1;105;-46.893452;-23.523381
+106;106;Jandira;36;Jandira;106;Jandira;1;106;-46.903065;-23.527946
+107;107;Sagrado Coração;36;Sagrado Coração;107;Sagrado Coração;1;107;-46.915682;-23.529284
+108;108;Eng Cardoso;36;Eng Cardoso;108;Eng Cardoso;1;108;-46.928642;-23.535146
+109;109;Itapevi;36;Itapevi;109;Itapevi;1;109;-46.935444;-23.545643
+110;110;Santa Rita;36;Santa Rita;110;Santa Rita;1;110;-46.947661;-23.54514
+111;111;Amador Bueno;36;Amador Bueno;111;Amador Bueno;1;111;-46.983882;-23.530504
+112;112;Jundiaí;36;Jundiaí;112;Jundiaí;1;112;-46.872434;-23.195132
+113;113;Várzea Paulista;36;Várzea Paulista;113;Várzea Paulista;1;113;-46.829323;-23.208808
+114;114;Campo Limpo Paulista;36;Campo Limpo Paulista;114;Campo Limpo Paulista;1;114;-46.785819;-23.206346
+115;115;Botujuru;36;Botujuru;115;Botujuru;1;115;-46.767476;-23.236105
+116;116;Francisco Morato;36;Francisco Morato;116;Francisco Morato;1;116;-46.742399;-23.282587
+117;117;Baltazar Fidélis;36;Baltazar Fidélis;117;Baltazar Fidélis;1;117;-46.723475;-23.310046
+118;118;Franco da Rocha;36;Franco da Rocha;118;Franco da Rocha;1;118;-46.726023;-23.329595
+119;119;Caieiras;36;Caieiras;119;Caieiras;1;119;-46.751572;-23.366174
+120;120;Perus;36;Perus;120;Perus;1;120;-46.753575;-23.405093
+121;121;Vila Aurora;36;Vila Aurora;121;Vila Aurora;1;121;-46.747399;-23.437647
+122;122;Jaraguá;36;Jaraguá;122;Jaraguá;1;122;-46.738766;-23.455111
+123;123;Vila Clarice;36;Vila Clarice;123;Vila Clarice;1;123;-46.744031;-23.470046
+124;124;Pirituba;36;Pirituba;124;Pirituba;1;124;-46.726246;-23.487971
+125;125;Piqueri;36;Piqueri;125;Piqueri;1;125;-46.71472;-23.504044
+126;126;Lapa (7);36;Lapa (7);126;Lapa (7);1;126;-46.703874;-23.517595
+127;127;Água Branca;36;Água Branca;127;Água Branca;1;127;-46.688603;-23.521369
+128;128;Eng Goulart;36;Eng Goulart;128;Eng Goulart;1;128;-46.519549;-23.497768
+129;129;USP Leste;36;USP Leste;129;USP Leste;1;129;-46.501439;-23.485567
+130;130;Comendador Ermelino;36;Comendador Ermelino;130;Comendador Ermelino;1;130;-46.482696;-23.485096
+131;131;São Miguel Paulista;36;São Miguel Paulista;131;São Miguel Paulista;1;131;-46.443747;-23.490746
+132;132;Jardim Helena;36;Jardim Helena;132;Jardim Helena;1;132;-46.421216;-23.492753
+133;133;Itaim Paulista;36;Itaim Paulista;133;Itaim Paulista;1;133;-46.402406;-23.493794
+134;134;Jardim Romano;36;Jardim Romano;134;Jardim Romano;1;134;-46.385503;-23.484871
+135;135;Eng Manoel Feio;36;Eng Manoel Feio;135;Eng Manoel Feio;1;135;-46.36713;-23.478916
+136;136;Itaquaquecetuba;36;Itaquaquecetuba;136;Itaquaquecetuba;1;136;-46.348683;-23.485522
+137;137;Aracaré;36;Aracaré;137;Aracaré;1;137;-46.339271;-23.499949
+138;138;Estudantes;36;Estudantes;138;Estudantes;1;138;-46.184123;-23.514992
+139;139;Mogi das Cruzes;36;Mogi das Cruzes;139;Mogi das Cruzes;1;139;-46.197123;-23.521489
+140;140;Braz Cubas;36;Braz Cubas;140;Braz Cubas;1;140;-46.22549;-23.536363
+141;141;Jundiapeba;36;Jundiapeba;141;Jundiapeba;1;141;-46.258156;-23.542884
+142;142;Suzano;36;Suzano;142;Suzano;1;142;-46.308087;-23.534024
+143;143;Calmon Viana;36;Calmon Viana;143;Calmon Viana;1;143;-46.333541;-23.525488
+144;144;Poá;36;Poá;144;Poá;1;144;-46.343589;-23.525486
+145;145;Ferraz de Vasconcelos;36;Ferraz de Vasconcelos;145;Ferraz de Vasconcelos;1;145;-46.368273;-23.540701
+146;146;Antonio Gianetti Neto;36;Antonio Gianetti Neto;146;Antonio Gianetti Neto;1;146;-46.383763;-23.554298
+147;147;Guaianases;36;Guaianases;147;Guaianases;1;147;-46.415778;-23.542338
+148;148;José Bonifacio;36;José Bonifacio;148;José Bonifacio;1;148;-46.432059;-23.539326
+149;149;Dom Bosco;36;Dom Bosco;149;Dom Bosco;1;149;-46.448588;-23.54191
+150;150;Guarulhos - Cecap;36;Guarulhos - Cecap;150;Guarulhos - Cecap;1;150;-46.493627;-23.447434
+151;151;Aeroporto - Guarulhos;36;Aeroporto - Guarulhos;151;Aeroporto - Guarulhos;1;151;-46.493936;-23.432915
+152;152;Rio Grande da Serra;36;Rio Grande da Serra;152;Rio Grande da Serra;1;152;-46.391809;-23.743325
+153;153;Ribeirão Pires;36;Ribeirão Pires;153;Ribeirão Pires;1;153;-46.414503;-23.71372
+154;154;Guapituba;36;Guapituba;154;Guapituba;1;154;-46.448921;-23.692265
+155;155;Mauá;36;Mauá;155;Mauá;1;155;-46.461753;-23.66833
+156;156;Capuava;36;Capuava;156;Capuava;1;156;-46.489808;-23.658038
+157;157;Santo André;36;Santo André;157;Santo André;1;157;-46.528055;-23.652368
+158;158;Prefeito Saladino;36;Prefeito Saladino;158;Prefeito Saladino;1;158;-46.536596;-23.638412
+159;159;Utinga;36;Utinga;159;Utinga;1;159;-46.544168;-23.625678
+160;160;São Caetano do Sul;36;São Caetano do Sul;160;São Caetano do Sul;1;160;-46.57009;-23.610382
+161;161;Ipiranga;36;Ipiranga;161;Ipiranga;1;161;-46.59674;-23.582421
+162;162;Juventus-Mooca;36;Juventus-Mooca;162;Juventus-Mooca;1;162;-46.60837;-23.558348
+163;163;Oratório;36;Oratório;163;Oratório;1;163;-46.561817;-23.582079
+164;164;São Lucas;36;São Lucas;164;São Lucas;1;164;-46.544764;-23.588837
+165;165;Camilo Haddad;36;Camilo Haddad;165;Camilo Haddad;1;165;-46.537509;-23.595232
+166;166;Vila Tolstói;36;Vila Tolstói;166;Vila Tolstói;1;166;-46.527095;-23.600888
+167;167;Vila União;36;Vila União;167;Vila União;1;167;-46.515676;-23.602883
+168;168;Jd. Planalto;36;Jd. Planalto;168;Jd. Planalto;1;168;-46.507689;-23.606484
+169;169;Sapopemba;36;Sapopemba;169;Sapopemba;1;169;-46.501093;-23.61458
+170;170;Fazenda da Juta;36;Fazenda da Juta;170;Fazenda da Juta;1;170;-46.487593;-23.612186
+171;171;São Mateus;36;São Mateus;171;São Mateus;1;171;-46.477309;-23.612349
+172;172;Jardim Colonial;36;Jardim Colonial;172;Jardim Colonial;1;172;-46.469183;-23.599062
